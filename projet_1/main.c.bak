@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/**
+ * @brief main affiche mon nom
+ * @return 0 si OK et 1 en cas de pb
+ */
+
+int main()
+{
+    printf("Je m'appelle %s %s\n","Sylvain", "Nadaud");
+    return 0;
+}
